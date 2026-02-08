@@ -1,0 +1,76 @@
+file_name,variable_name,variable_defintion,string_format,unit,number_type
+2_study_metadata.csv,study_id,unique study ID,NA,NA,integer
+2_study_metadata.csv,site_id,unique site ID for each study ID,NA,NA,integer
+2_study_metadata.csv,site_name,unique site name for each study location,NA,NA,NA
+2_study_metadata.csv,year,calendar years when cereal rye was planted and biomass sample was collected,YYYY-YYYY,NA,NA
+2_study_metadata.csv,state,state where observation occurred,NA,NA,NA
+2_study_metadata.csv,latitude,latitude point where observation occurred,NA,decimal degree,NA
+2_study_metadata.csv,longitude,longtitude point where observation occurred,NA,decimal degree,NA
+2_study_metadata.csv,location_obscured,whether latitude and logitude data from private farms were obscured to ensure privacy,TRUE/FALSE,NA,NA
+2_study_metadata.csv,experimental_design,"whether design is Randomized complete block design or Split-split plot design, Split plot and randomized complete block design, or unknown",NA,NA,NA
+2_study_metadata.csv,replications,number of replications of biomass data,NA,NA,integer
+2_study_metadata.csv,rye_data_level,whether biomass data is provided at plot level or treatment level (aggregated across plots or replicates),NA,NA,NA
+2_study_metadata.csv,publication_DOI,"the DOI associated with any published datasets; ""NA"" indicates that study is unpublished",NA,NA,NA
+2_study_metadata.csv,methods_unpublished_data,the methods associated with any unpublished datasets,NA,NA,NA
+3_rye_data.csv,study_id,unique study ID,NA,NA,integer
+3_rye_data.csv,site_id,unique site ID for each study ID,NA,NA,NA
+3_rye_data.csv,year,calendar years when cereal rye was planted and biomass sample was collected,YYYY-YYYY,NA,NA
+3_rye_data.csv,rye_planting_date,cereal rye planting date,MM/DD/YYYY,NA,NA
+3_rye_data.csv,rye_sampling_date,cereal rye sampling date,MM/DD/YYYY,NA,NA
+3_rye_data.csv,N_rate_fall_kg_N_ha,nitrogen fertilizer rate applied fall to cover crop,NA,kg N/ha,NA
+3_rye_data.csv,N_rate_spring_kg_N_ha,nitrogen fertilizer rate applied in spring to cover crop,NA,kg N/ha,NA
+3_rye_data.csv,cultivar,cereal rye cultivar,NA,NA,NA
+3_rye_data.csv,rep,"For plot level data, 'rep' represents the rep# from which sample was taken. For treatment level data, 'rep' represents the total number of samples based on which the mean and sd were calculated.",NA,NA,integer
+3_rye_data.csv,shoot_biomass_mean_kg_ha,mean or raw shoot biomass sampled at sampling date,NA,kg/ha,real
+3_rye_data.csv,shoot_biomass_sd,standard deviation of treatment-level mean shoot biomass values sampled at sample_date,NA,NA,real
+3_rye_data.csv,shoot_N_mean,mean or raw shoot nitrogen sampled at sampling date,NA,NA,real
+3_rye_data.csv,shoot_N_sd,standard deviation of treatment-level mean shoot nitrogen values sampled at sample_date,NA,NA,real
+3_rye_data.csv,N_content_units,units of shoot nitrogen values percent N or kg N ha^1,NA,NA,NA
+3_rye_data.csv,shoot_CN_ratio_mean,mean or raw shoot carbon to nitrogen ratio sampled at sampling date,NA,NA,NA
+3_rye_data.csv,shoot_CN_ratio_sd,standard deviation of treatment-level mean shoot carbon to nitrogen ratio values sampled at sample_date,NA,NA,NA
+3_rye_data.csv,seeding_rate,cereal rye seeding rate,NA,NA,real
+3_rye_data.csv,seeding_rate_units,cereal rye seeding rate units seeds/ha kg/ha lb/ac,NA,NA,NA
+3_rye_data.csv,cumulative_GDD,cumulative growing degree days,NA,NA,real
+3_rye_data.csv,base_temp_C,base temperature for growing degree day calculation in Â°C,NA,°C,real
+3_rye_data.csv,growth_stage_at_termination,description of growth stage at cereal rye termination,NA,NA,NA
+3_rye_data.csv,plant_population,plant population values,NA,NA,NA
+3_rye_data.csv,plant_population_units,plant population units,NA,NA,NA
+3_rye_data.csv,plant_population_date,plant population sampling date,NA,NA,NA
+3_rye_data.csv,tiller_density,tiller density,NA,NA,NA
+3_rye_data.csv,tillers_units,tiller density units,NA,NA,NA
+4_agronomic­_data.csv,study_id,unique study ID,NA,NA,integer
+4_agronomic­_data.csv,site_id,unique site ID for each study ID,NA,NA,NA
+4_agronomic­_data.csv,year,calendar years when cereal rye was planted and biomass sample was collected,YYYY-YYYY,NA,NA
+4_agronomic­_data.csv,previous_crop,crop grown in previous growing season,NA,NA,NA
+4_agronomic­_data.csv,next_crop,crop grown in following growing season,NA,NA,NA
+4_agronomic­_data.csv,planting_method,"cereal rye planting method, broadcast or drilled",NA,NA,NA
+4_agronomic­_data.csv,fall_tillage,"fall tillage decription, No-till, Conventional till, Reduced till",NA,NA,NA
+4_agronomic­_data.csv,row_spacing,row spacing of cereal rye planting,NA,NA,real
+4_agronomic­_data.csv,row_spacing_units,units of row spacing of cereal rye planting inches or cm,NA,NA,NA
+4_agronomic­_data.csv,N_fertilization,whether nitrogen fertilizer was applied during cover crop growth,NA,NA,NA
+4_agronomic­_data.csv,fertilizer_form,fertilizer form or type,NA,NA,NA
+4_agronomic­_data.csv,N_rate_fall_date,N fertilizer application date,MM/DD/YYYY,NA,NA
+4_agronomic­_data.csv,N_rate_spring_date,N fertilizer application date,MM/DD/YYYY,NA,NA
+4_agronomic­_data.csv,Notes,general notes about agronomic management,NA,NA,NA
+5_soil_data.csv,study_id,unique study ID,NA,NA,integer
+5_soil_data.csv,site_id,unique site ID for each study ID,NA,NA,NA
+5_soil_data.csv,year,calendar years when cereal rye was planted and biomass sample was collected,YYYY-YYYY,NA,NA
+5_soil_data.csv,soil_sampling,whether soil samples were collected TRUE or FALSE,TRUE/FALSE,NA,NA
+5_soil_data.csv,sampling_event,when soil sampling occurred: Before or at rye planting or After or at rye termination or NA,NA,NA,NA
+5_soil_data.csv,rep,number of replicate soil samples,NA,NA,integer
+5_soil_data.csv,soil_cores_sampled,"For plot-level data, the specific soil core. For treatment-level data, this represents the total number of soil cores based on which mean and sd were calculated.",NA,NA,integer
+5_soil_data.csv,soil_depth_cm,soil depth range,top sample depth-bottom sample depth,cm,NA
+5_soil_data.csv,soil_NH4,soil ammonium concentration,NA,NA,real
+5_soil_data.csv,soil_NH4_units,soil ammonium units,NA,NA,NA
+5_soil_data.csv,soil_NO3,soil nitrate concentration,NA,NA,real
+5_soil_data.csv,soil_NO3_units,soil nitrate units,NA,NA,NA
+5_soil_data.csv,total_inorganic_N,total inorganic nitrogen concentration,NA,NA,real
+5_soil_data.csv,total_inorganic_N_units,total inorganic nitrogen units,NA,NA,NA
+5_soil_data.csv,soil_textural_class,soil texture class,NA,NA,NA
+5_soil_data.csv,percent_sand,sand content (%),NA,percent,NA
+5_soil_data.csv,percent_silt,silt content (%),NA,percent,NA
+5_soil_data.csv,percent_clay,clay content (%),NA,percent,NA
+5_soil_data.csv,bulk_density_g_cm3,bulk density (g/cm^3),NA,g/cm^3,NA
+5_soil_data.csv,percent_SOM,soil organic matter,NA,percent,NA
+5_soil_data.csv,percent_SOC,soil organic carbon,NA,percent,NA
+5_soil_data.csv,pH,soil pH,NA,NA,NA

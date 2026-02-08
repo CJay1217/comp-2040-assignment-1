@@ -1,0 +1,286 @@
+study_id,site_id,year,soil_sampling,Before or at rye planting,rep,soil_cores_sampled,soil_depth_cm,soil_NH4,soil_NH4_units,soil_NO3,soil_NO3_units,total_inorganic_N,total_inorganic_N_units,soil_textural_class,percent_sand,percent_silt,percent_clay,bulk_density_g_cm3,percent_SOM,percent_SOC,pH
+1,Agricultural Engineering and AgroFALSEmy Research Farm (AEARF),2005-2006,FALSE,,,,,,,,,,,loam,,,,,,,
+1,Agricultural Engineering and AgroFALSEmy Research Farm (AEARF),2006-2007,FALSE,,,,,,,,,,,clay loam,,,,,,,
+1,Agricultural Engineering and AgroFALSEmy Research Farm (AEARF),2007-2008,FALSE,,,,,,,,,,,silty clay loam,,,,,,,
+1,Agricultural Engineering and AgroFALSEmy Research Farm (AEARF),2008-2009,FALSE,,,,,,,,,,,clay loam,,,,,,,
+2,Crop Science Research and Education Center (CSREC),2004-2005,FALSE,After or at rye termition,1,1,0-30,,,,,,,silt loam,7,68,25,,,4.2,7.2
+3,Crop Science Research and Education Center (CSREC),2007-2008,FALSE,After or at rye termition,2,2,0-30,Fig. 2,,Fig. 2,,,,silty clay loam,17,56,27,,4.8,,6
+4,Kelly Experimental Farm,2001-2002,TRUE,Before or at rye planting,4,3,0-120,,,,,13.7,kg/ha,loam,,,,,,,
+4,Kelly Experimental Farm,2002-2003,TRUE,Before or at rye planting,4,3,0-120,,,,,26.5,kg/ha,loam,,,,,,,
+4,Kelly Experimental Farm,2003-2004,TRUE,Before or at rye planting,4,3,0-120,,,,,44.2,kg/ha,loam,,,,,,,
+4,Kelly Experimental Farm,2004-2005,TRUE,Before or at rye planting,4,3,0-120,,,,,70.4,kg/ha,loam,,,,,,,
+5,Kelly Experimental Farm,2005-2006,TRUE,Before or at rye planting,4,3,0-120,,,,,82.9,kg/ha,loam,,,,,,,
+5,Kelly Experimental Farm,2006-2007,FALSE,,4,,,,,,,,,loam,,,,,,,
+5,Kelly Experimental Farm,2007-2008,FALSE,,4,,,,,,,,,loam,,,,,,,
+5,Kelly Experimental Farm,2008-2009,FALSE,,4,,,,,,,,,loam,,,,,,,
+5,Kelly Experimental Farm,2009-2010,FALSE,,4,,,,,,,,,loam,,,,,,,
+6,Kelly Experimental Farm,2010-2011,FALSE,,4,,,,,,,,,loam,,,,,,,
+6,Kelly Experimental Farm,2011-2012,FALSE,,4,,,,,,,,,loam,,,,,,,
+6,Kelly Experimental Farm,2012-2013,TRUE,After or at rye termition,4,2,0-15,,,,,,,loam,35.8,37.7,26.5,1.31,,,
+6,Kelly Experimental Farm,2012-2013,FALSE,,4,,15-30,,,,,,,loam,35.6,36.9,27.5,1.28,,,
+6,Kelly Experimental Farm,2013-2014,FALSE,,4,,15-30,,,,,,,loam,,,,,,,
+7,Kelly Experimental Farm,2015-2016,FALSE,,4,,,,,,,,,loam,,,,,,,
+7,Kelly Experimental Farm,2016-2017,FALSE,,4,,,,,,,,,loam,,,,,,,
+8,Beltsville Agricultural Research Center,2009-2010,FALSE,,4,,,,,,,,,loamy sand,,,,,,,
+8,Beltsville Agricultural Research Center,2010-2011,TRUE,Before or at rye planting,4,6,0-30,,,,,46,kg/ha,loam,,,,,,,
+8,Beltsville Agricultural Research Center,2010-2011,TRUE,Before or at rye planting,4,6,30-60,,,,,35,kg/ha,loam,,,,,,,
+8,Beltsville Agricultural Research Center,2010-2011,TRUE,Before or at rye planting,4,6,60-90,,,,,34.8,kg/ha,loam,,,,,,,
+8,Beltsville Agricultural Research Center,2011-2012,TRUE,Before or at rye planting,4,6,0-30,,,,,23.5,kg/ha,loam,,,,,,,
+8,Beltsville Agricultural Research Center,2011-2012,TRUE,Before or at rye planting,4,6,30-60,,,,,20.3,kg/ha,loam,,,,,,,
+8,Beltsville Agricultural Research Center,2011-2012,TRUE,Before or at rye planting,4,6,60-90,,,,,15.7,kg/ha,loam,,,,,,,
+8,Russell E. Larson Agricultural Research Center,2011-2012,TRUE,Before or at rye planting,4,6,0-30,,,,,21.5,kg/ha,silt loam,,,,,,,
+8,Russell E. Larson Agricultural Research Center,2011-2012,TRUE,Before or at rye planting,4,6,30-60,,,,,13.9,kg/ha,silt loam,,,,,,,
+8,Russell E. Larson Agricultural Research Center,2011-2012,TRUE,Before or at rye planting,4,6,60-90,,,,,17.8,kg/ha,silt loam,,,,,,,
+8,"Caswell Research Station, Kinston",2011-2012,TRUE,Before or at rye planting,4,6,0-30,,,,,34.6,kg/ha,sandy loam,,,,,,,
+8,"Caswell Research Station, Kinston",2011-2012,TRUE,Before or at rye planting,4,6,30-60,,,,,33,kg/ha,sandy loam,,,,,,,
+8,"Caswell Research Station, Kinston",2011-2012,TRUE,Before or at rye planting,4,6,60-90,,,,,30.1,kg/ha,sandy loam,,,,,,,
+8,"Piedmont Research Station, Salisbury",2011-2012,TRUE,Before or at rye planting,4,6,0-30,,,,,72.9,kg/ha,clay loam,,,,,,,
+8,"Piedmont Research Station, Salisbury",2011-2012,TRUE,Before or at rye planting,4,6,30-60,,,,,57,kg/ha,clay loam,,,,,,,
+8,"Piedmont Research Station, Salisbury",2011-2012,TRUE,Before or at rye planting,4,6,60-90,,,,,47.4,kg/ha,clay loam,,,,,,,
+9,Crookston,2014-2015,FALSE,,3,,,,,,,,,sandy loam,,,,,,2.3,
+9,Crookston,2015-2016,FALSE,,3,,,,,,,,,sandy loam,,,,,,2.3,
+9,Lamberton,2014-2015,FALSE,,3,,,,,,,,,clay loam,,,,,,3,
+9,Lamberton,2015-2016,FALSE,,3,,,,,,,,,clay loam,,,,,,3,
+9,Saint Paul,2014-2015,FALSE,,3,,,,,,,,,silt loam,,,,,,3.5,
+9,Saint Paul,2015-2016,FALSE,,3,,,,,,,,,silt loam,,,,,,3.5,
+10,E.V. Smith Research Center,2010-2011,FALSE,,3,,,,,,,,,loamy sand,,,,,,,
+10,E.V. Smith Research Center,2011-2012,FALSE,,3,,,,,,,,,loamy sand,,,,,,,
+10,Tennessee Valley Research and Extension Center,2011-2012,FALSE,,3,,,,,,,,,silt loam,,,,,,,
+10,E.V. Smith Research Center,2012-2013,FALSE,,3,,,,,,,,,loamy sand,,,,,,,
+10,Tennessee Valley Research and Extension Center,2012-2013,FALSE,,3,,,,,,,,,silt loam,,,,,,,
+10,E.V. Smith Research Center,2013-2014,FALSE,,4,,,,,,,,,loamy sand,,,,,,,
+11,Wiregrass Research and Extension Center,2005-2006,FALSE,,4,,,,,,,,,,,,,,,,
+11,Wiregrass Research and Extension Center,2006-2007,FALSE,,4,,,,,,,,,,,,,,,,
+11,Wiregrass Research and Extension Center,2007-2008,FALSE,,4,,,,,,,,,,,,,,,,
+12,Gulf Coast Research and Extension Center,2003-2004,TRUE,Before or at rye planting,,,0-20,,,,,,,sandy loam,,,,,,,6.1
+12,Gulf Coast Research and Extension Center,2004-2005,TRUE,Before or at rye planting,,,0-20,,,,,,,sandy loam,,,,,,,6
+12,Gulf Coast Research and Extension Center,2005-2006,TRUE,Before or at rye planting,,,0-20,,,,,,,sandy loam,,,,,,,5.8
+13,Prattville Agricultural Research Unit,2003-2004,TRUE,Before or at rye planting,,,,,,,,,,sandy loam,,,,,,,
+13,Prattville Agricultural Research Unit,2004-2005,FALSE,,,,,,,,,,,sandy loam,,,,,,,
+13,Prattville Agricultural Research Unit,2006-2007,FALSE,,,,,,,,,,,sandy loam,,,,,,,
+13,Prattville Agricultural Research Unit,2007-2008,FALSE,,,,,,,,,,,sandy loam,,,,,,,
+13,Prattville Agricultural Research Unit,2008-2009,FALSE,,,,,,,,,,,sandy loam,,,,,,,
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,33,31,36,,,,7.8
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,37,31,32,,,,7.8
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,35,31,34,,,,8.15
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,37,31,32,,,,8.2
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,39,29,32,,,,7.6
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,35,31,34,,,,7.45
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,39,31,30,,,,7.75
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,39,29,32,,,,8.2
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,33,33,34,,,,7.55
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,38,34,28,,,,7.3
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,sandy clay loam,46,34,20,,,,7.65
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,38,32,30,,,,7.9
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,loam,45,27,28,,,,7.7
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,35,33,32,,,,7.3
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,37,33,30,,,,7.45
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,35,33,32,,,,8.15
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,39,31,30,,,,7.5
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,33,37,30,,,,7.3
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,43,33,24,,,,7.4
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,35,33,32,,,,8.05
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,30,32,38,,,,7.6
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,28,34,38,,,,7.55
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,28,36,36,,,,7.95
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,22,38,40,,,,7.9
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,34,30,36,,,,7.4
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,32,32,36,,,,7.15
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,28,34,38,,,,7.5
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,26,36,38,,,,8.05
+15,GILMORE,2011,TRUE,,,,0-10,,,,,,,clay loam,32,32,36,,,,7.8
+15,GILMORE,2011,TRUE,,,,10-20,,,,,,,clay loam,30,34,36,,,,7.85
+15,GILMORE,2011,TRUE,,,,20-40,,,,,,,clay loam,30,34,36,,,,8.05
+15,GILMORE,2011,TRUE,,,,40-60,,,,,,,clay loam,30,34,36,,,,7.9
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,loam,36,21,43,,,,6.7
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,clay loam,30,26,45,,,,6.05
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,27,28,45,,,,6.25
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,31,27,42,,,,6.5
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,loam,46,22,32,,,,7.3
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,clay loam,44,30,26,,,,6.9
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,39,26,36,,,,7
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,40,26,34,,,,7.35
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,loam,44,22,35,,,,7.1
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,loam,38,24,38,,,,6.35
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,35,26,39,,,,6.05
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,35,25,40,,,,6.95
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,loam,49,17,34,,,,6.6
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,loam,45,21,34,,,,6.8
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,loam,49,21,30,,,,6.75
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,sandy clay loam,54,20,26,,,,7.05
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,clay loam,34,27,39,,,,6.7
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,clay loam,33,27,40,,,,6.8
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,25,30,45,,,,7.1
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,24,32,44,,,,7.3
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,loam,36,21,43,,,,6.45
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,clay loam,37,25,38,,,,6.55
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,34,27,40,,,,6.75
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,37,26,37,,,,7.25
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,loam,40,22,38,,,,6.3
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,clay loam,40,25,35,,,,6.45
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,41,26,34,,,,6.5
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,45,25,30,,,,7.25
+15,ISUAG,2011,TRUE,,,,0-10,,,,,,,clay loam,29,28,43,,,,6.5
+15,ISUAG,2011,TRUE,,,,10-20,,,,,,,clay loam,31,28,41,,,,6.4
+15,ISUAG,2011,TRUE,,,,20-40,,,,,,,clay loam,31,28,41,,,,6.85
+15,ISUAG,2011,TRUE,,,,40-60,,,,,,,clay loam,32,29,39,,,,7.15
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,20,20,60,,,,5.5
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,20,21,59,,,,6.35
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,17,23,60,,,,6.47
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,silt loam,21,29,50,,,,5.84
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,17,23,60,,,,5.56
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,22,22,56,,,,6.25
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,21,24,55,,,,6.36
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,silt loam,20,29,51,,,,6.62
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,loam,36,22,41,,,,5.36
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,20,22,58,,,,5.63
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,20,23,57,,,,6.14
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,clay loam,30,29,42,,,,5.37
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,15,20,65,,,,5.01
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,17,21,62,,,,5.24
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,22,21,58,,,,5.49
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,clay loam,30,31,39,,,,5.17
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,13,25,62,,,,5.73
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,20,25,56,,,,6.47
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,14,24,61,,,,6.47
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,clay loam,23,32,44,,,,6.34
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,14,22,64,,,,5.14
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,13,21,66,,,,6.15
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,12,27,61,,,,6.43
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,silt loam,18,27,55,,,,5.71
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,13,25,62,,,,5.34
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,17,25,58,,,,5.68
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,18,27,55,,,,5.97
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,silty clay loam,18,33,49,,,,5.23
+15,WOOSTER.COV,2012,TRUE,,,,0-10,,,,,,,silt loam,16,23,61,,,,5.22
+15,WOOSTER.COV,2012,TRUE,,,,10-20,,,,,,,silt loam,12,25,62,,,,5.6
+15,WOOSTER.COV,2012,TRUE,,,,20-40,,,,,,,silt loam,14,27,58,,,,6.04
+15,WOOSTER.COV,2012,TRUE,,,,40-60,,,,,,,silt loam,16,31,53,,,,5.67
+16,"College Station, TX I",2020-2021,FALSE,,,,,,,,,,,silt loam,,,,,,,
+16,"College Station, TX I",2020-2021,FALSE,,,,,,,,,,,silt loam,,,,,,,
+16,"College Station, TX I",2020-2021,FALSE,,,,,,,,,,,silt loam,,,,,,,
+16,"College Station, TX II",2020-2021,FALSE,,,,,,,,,,,silt loam,,,,,,,
+16,"College Station, TX II",2021-2022,FALSE,,,,,,,,,,,silt loam,,,,,,,
+16,"College Station, TX III",2020-2021,FALSE,,,,,,,,,,,clay,,,,,,,
+16,"College Station, TX III",2021-2022,FALSE,,,,,,,,,,,clay,,,,,,,
+17,Lancaster,2015-2016,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,2,,7.4
+17,Lancaster,2015-2016,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,2.1,,7.2
+17,Lancaster,2015-2016,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,2.2,,7.3
+17,Lancaster,2015-2016,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,2.2,,7.3
+17,Lancaster,2016-2017,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,2,,6.1
+17,Lancaster,2016-2017,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,1.9,,6.4
+17,Lancaster,2016-2017,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,2.1,,6.5
+17,Lancaster,2016-2017,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,2.1,,6.6
+17,Arlington,2015-2016,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,3.3,,6.2
+17,Arlington,2015-2016,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,3.2,,7.2
+17,Arlington,2015-2016,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,3.4,,6.5
+17,Arlington,2015-2016,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,4.2,,6.1
+17,Arlington,2016-2017,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,3,,6.7
+17,Arlington,2016-2017,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,3.4,,6.2
+17,Arlington,2016-2017,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,3.6,,6.3
+17,Arlington,2016-2017,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,3.6,,6.4
+17,Hancock,2015-2016,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,0.8,,6.5
+17,Hancock,2015-2016,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,0.7,,6
+17,Hancock,2015-2016,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,1,,6.6
+17,Hancock,2015-2016,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,0.9,,6.4
+17,Hancock,2016-2017,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,0.7,,6.3
+17,Hancock,2016-2017,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,0.7,,6.4
+17,Marshfield,2015-2016,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,4,,6.9
+17,Marshfield,2015-2016,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,3.4,,6.6
+17,Marshfield,2015-2016,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,3.8,,6.7
+17,Marshfield,2015-2016,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,3.7,,7
+17,Marshfield,2016-2017,TRUE,Before or at rye planting,1,,0-15,,,,,,,,,,,,3.8,,6.8
+17,Marshfield,2016-2017,TRUE,Before or at rye planting,2,,0-15,,,,,,,,,,,,3.7,,6.7
+17,Marshfield,2016-2017,TRUE,Before or at rye planting,3,,0-15,,,,,,,,,,,,3.6,,6.8
+17,Marshfield,2016-2017,TRUE,Before or at rye planting,4,,0-15,,,,,,,,,,,,4.1,,6.7
+18,University of Wisconsin Arlington Agricultural Research Station,2011-2012,FALSE,,,,,,,,,,,silt loam,,,,,,,
+18,University of Wisconsin Arlington Agricultural Research Station,2012-2013,FALSE,,,,,,,,,,,silt loam,,,,,,,
+18,University of Wisconsin Arlington Agricultural Research Station,2013-2014,FALSE,,,,,,,,,,,silt loam,,,,,,,
+18,University of Wisconsin Arlington Agricultural Research Station,2014-2015,FALSE,,,,,,,,,,,silt loam,,,,,,,
+18,University of Wisconsin Arlington Agricultural Research Station,2016-2017,FALSE,,,,,,,,,,,silt loam,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,1,,0-30,,,1.95,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,2,,0-30,,,2.45,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,3,,0-30,,,1.22,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,4,,0-30,,,1.06,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,1,,30-60 ,,,1.25,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,2,,30-60 ,,,1.62,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,3,,30-60 ,,,1.42,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2014-2015,TRUE,After or at rye termition,4,,30-60 ,,,1.09,NO3-N (ppm),,,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,3,,0-30,3.1,NH4-N (ppm),2.6,NO3-N (ppm),5.7,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,4,,0-30,6.2,NH4-N (ppm),2.5,NO3-N (ppm),8.7,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,1,,0-30,5.3,NH4-N (ppm),5.2,NO3-N (ppm),10.5,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,2,,0-30,4.2,NH4-N (ppm),2.7,NO3-N (ppm),6.9,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,3,,30-60 ,1.7,NH4-N (ppm),1.3,NO3-N (ppm),3,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,4,,30-60 ,2.2,NH4-N (ppm),1.6,NO3-N (ppm),3.8,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,1,,30-60 ,2.9,NH4-N (ppm),1.5,NO3-N (ppm),4.4,N ppm,,,,,,,,
+19,Soaring Eagle Dairy,2015-2016,TRUE,After or at rye termition,2,,30-60 ,2.4,NH4-N (ppm),1.5,NO3-N (ppm),3.9,N ppm,,,,,,,,
+20,"Georgetown, DE",2012-2013,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2013-2014,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2014-2015,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2015-2016,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2016-2017,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2017-2018,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2018-2019,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2019-2020,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Georgetown, DE",2020-2021,FALSE,,,,,,,,,,,Loamy sand/ sandy loam,,,,,,,
+20,"Middletown, DE",2018-2019,FALSE,,,,,,,,,,,Silt Loam,,,,,1.7,,
+21,University of Maryland Wye Research and Education Center,2016-2017,FALSE,,,,,,,,,,,,,,,,,,
+21,University of Maryland Wye Research and Education Center,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+21,"Beltsville Agricultural Research Center, Beltsville, MD",2016-2017,FALSE,,,,,,,,,,,,,,,,,,
+21,"Beltsville Agricultural Research Center, Beltsville, MD",2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+21,University of Delaware Carvel Research and Education Center,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+21,University of Delaware Carvel Research and Education Center,2018-2019,FALSE,,,,,,,,,,,,,,,,,,
+21,University of Massachusetts Crop and Animal Research and Education Center,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+21,University of Massachusetts Crop and Animal Research and Education Center,2018-2019,FALSE,,,,,,,,,,,,,,,,,,
+21,Cornell University Agriculture Experiment Station,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+21,Cornell University Agriculture Experiment Station,2018-2019,FALSE,,,,,,,,,,,,,,,,,,
+21,Pennsylvania State University the Pennsylvania Department of Agriculture Livestock Evaluation Center,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+21,Pennsylvania State University the Pennsylvania Department of Agriculture Livestock Evaluation Center,2018-2019,FALSE,,,,,,,,,,,,,,,,,,
+22,DE,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,FL,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,IN,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,KS,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,KY,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,LA,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,MD,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,NC,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,NE,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,NY,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,PA,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,SC,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,VT,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,WI,2020-2021,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,KY,2021-2022,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,MD,2021-2022,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,NY,2021-2022,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,SC,2021-2022,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+22,VT,2021-2022,TRUE,Before or at rye planting,,,,,,,,,,,,,,,,,
+23,SRZ,2016-2017,TRUE,After or at rye termition,,,,,,,,,,,44.46,28.14,27.4,,,,
+23,AWP,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,44.46,28.14,27.4,,,,
+23,CJA,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+23,NSF,2017-2018,FALSE,,,,,,,,,,,,,,,,,,
+23,NSL,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,51.4,13.43,35.17,,,,
+23,WYE,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,51.4,13.43,35.17,,,,
+23,KCF,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,54.43,15.98,29.59,,,,
+23,KCW,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,54.43,15.98,29.59,,,,
+23,MKD,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,52.38,15.52,32.1,,,,
+23,SRY,2017-2018,TRUE,After or at rye termition,,,,,,,,,,,52.38,15.52,32.1,,,,
+23,LAB,2018-2019,TRUE,After or at rye termition,,,,,,,,,,,33.42,17.85,48.73,,,,
+23,LAC,2019-2020,TRUE,After or at rye termition,,,,,,,,,,,33.42,17.85,48.73,,,,
+23,YVX,2020-2021,TRUE,After or at rye termition,,,,,,,,,,,88.4,5.6,5.9,,,,
+23,IVU,2020-2021,TRUE,After or at rye termition,,,,,,,,,,,88.4,5.6,5.9,,,,
+23,TXE,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,BGP,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,NTK,2020-2021,TRUE,After or at rye termition,,,,,,,,,,,70.9,12,17.1,,,,
+23,LZU,2020-2021,TRUE,After or at rye termition,,,,,,,,,,,70.9,12,17.1,,,,
+23,XLS,2020-2021,TRUE,After or at rye termition,,,,,,,,,,,45.77,28.61,25.62,,,,
+23,URF,2020-2021,TRUE,After or at rye termition,,,,,,,,,,,45.77,28.61,25.62,,,,
+23,RKT,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,WBD,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,UCT,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,UFH,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,IMT,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,LKB,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,POG,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,ABZ,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
+23,IQE,2020-2021,FALSE,,,,,,,,,,,,,,,,,,
